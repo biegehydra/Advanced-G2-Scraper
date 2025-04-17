@@ -70,7 +70,7 @@ Refer to the full documentation for details on parameters (like `id`, `slug`, `p
 
 ## 📞 Support
 
-*   For issues with the API or data, please contact [contact@g2scraper.com](mailto:contact@g2scraper.com).
+*   For issues with the API or data, please contact [dev@g2scraper.com](mailto:dev@g2scraper.com).
 *   For questions related to your RapidAPI subscription or billing, please refer to RapidAPI's support channels.
 *   Found a bug or have a feature request? Open an issue on the [GitHub repository](https://github.com/biegehydra/Advanced-G2-Scraper/issues). *(<-- Update link)*
 
@@ -89,7 +89,7 @@ If you find this API useful, please consider starring the repository and giving 
 
 > By using the G2 Scraper API, you agree to comply with all applicable local and international laws related to data scraping, copyright, and privacy. The developers of the G2 Scraper API will not be held liable for any misuse of this service. It is the user's sole responsibility to ensure adherence to all relevant laws and G2's terms of service, and to use the API in an ethical and legal manner.
 
-For inquiries or issues, please contact us at [contact@g2scraper.com](mailto:contact@g2scraper.com).
+For inquiries or issues, please contact us at [dev@g2scraper.com](mailto:dev@g2scraper.com).
 - Bulk purchases are available
 - Scraping other sites is available
 - Data analysis and visualization is available
